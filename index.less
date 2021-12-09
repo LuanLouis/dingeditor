@@ -1,0 +1,35 @@
+*,
+:after,
+:before {
+  box-sizing: border-box;
+}
+body {
+  padding: 0 0;
+  margin: 0 0;
+}
+
+.bi-toolbar,
+.bi-menubar {
+  position: relative;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.bi-toolbar {
+  z-index: 3;
+}
+.bi-menubar {
+  z-index: 5;
+}
+
+.bi-configpanel {
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 279px;
+  padding: 8px;
+  background-color: rgb(246, 248, 249);
+  z-index: 1;
+  margin-top: 24px;
+}

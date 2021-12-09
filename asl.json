@@ -1,0 +1,4183 @@
+[
+  "root",
+  [
+    "h1",
+    {},
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "标题一"
+      ]
+    ]
+  ],
+  [
+    "p",
+    {},
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "放一些基础内容，建议专项功能可另开测试页。"
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "图片"
+      ]
+    ]
+  ],
+  [
+    "p",
+    [
+      "img",
+      {
+        "src": "https://alidocs.oss-accelerate.aliyuncs.com/res/E8K4nyVo6RapqLbj/img/c0d39b35-0c85-46f4-92d7-8f008cd26da6.jpeg",
+        "width": 646,
+        "height": 486,
+        "rotation": 0
+      }
+    ],
+    [
+      "span",
+      {
+        "avatarUrl": "",
+        "data-type": "mention",
+        "id": "1",
+        "login": "",
+        "name": "",
+        "isPlaceholder": true
+      }
+    ]
+  ],
+  [
+    "h2",
+    {},
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "URL 卡片"
+      ]
+    ]
+  ],
+  [
+    "p",
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "This is "
+      ]
+    ],
+    [
+      "a",
+      {
+        "href": "http://www",
+        "cardInfo": {
+          "title": "淘宝网 - 淘！我喜欢",
+          "desc": "女装 / 内衣 / 家居  女鞋 / 男鞋 / 箱包  母婴 / 童装 / 玩具  男装 / 运动户外  美妆 / 彩妆 / 个护  手机 / 数码 / 企业  大家电 / 生活电器  ",
+          "imgURL": "https://img.alicdn.com/tfs/TB1KfHdmRBh1e4jSZFhXXcC9VXa-1190-70.jpg",
+          "displayType": "card"
+        }
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          "link"
+        ]
+      ]
+    ],
+   
+    [
+      "a",
+      {
+        "href": "link1",
+        "cardInfo": {
+          "title": "淘宝网 - 淘！我喜欢",
+          "desc": "女装 / 内衣 / 家居  女鞋 / 男鞋 / 箱包  母婴 / 童装 / 玩具  男装 / 运动户外  美妆 / 彩妆 / 个护  手机 / 数码 / 企业  大家电 / 生活电器  ",
+          "imgURL": "https://img.alicdn.com/tfs/TB1KfHdmRBh1e4jSZFhXXcC9VXa-1190-70.jpg",
+          "displayType": "card"
+        }
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          "link1"
+        ]
+      ]
+    ],
+    [
+      "a",
+      {
+        "href": "http://www",
+        "cardInfo": {
+          "title": "淘宝网 - 淘！我喜欢",
+          "desc": "女装 / 内衣 / 家居  女鞋 / 男鞋 / 箱包  母婴 / 童装 / 玩具  男装 / 运动户外  美妆 / 彩妆 / 个护  手机 / 数码 / 企业  大家电 / 生活电器  ",
+          "imgURL": "https://img.alicdn.com/tfs/TB1KfHdmRBh1e4jSZFhXXcC9VXa-1190-70.jpg",
+          "displayType": "card"
+        }
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          "http://www"
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "."
+      ]
+    ]
+  ],
+  [
+    "card",
+    {
+      "cardType": "link",
+      "height": 88,
+      "spacing": {
+        "before": 10,
+        "after": 10
+      },
+      "metadata": {
+        "text": "1234",
+        "href": "link1",
+        "cardInfo": {
+          "title": "3333",
+          "desc": "女装 / 内衣 / 家居  女鞋 / 男鞋 / 箱包  母婴 / 童装 / 玩具  男装 / 运动户外  美妆 / 彩妆 / 个护  手机 / 数码 / 企业  大家电 / 生活电器  ",
+          "imgURL": "https://img.alicdn.com/tfs/TB1KfHdmRBh1e4jSZFhXXcC9VXa-1190-70.jpg",
+          "displayType": "card"
+        }
+      }
+    },
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ]
+  ],
+  [
+    "p",
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "This is "
+      ]
+    ],
+    [
+      "a",
+      {
+        "href": "https://www.baidu.com/",
+        "cardInfo": {
+          "title": "百度",
+          "width": 452,
+          "height": 96,
+          "desc": "测试测试",
+          "imgURL": "图片链接",
+          "displayType": "card"
+        }
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          "link"
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "."
+      ]
+    ]
+  ],
+  [
+    "p",
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "This is "
+      ]
+    ],
+    [
+      "a",
+      {
+        "href": "https://www.baidu.com/"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          "link"
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "."
+      ]
+    ]
+  ],
+  [
+    "p",
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "This is "
+      ]
+    ],
+    [
+      "a",
+      {
+        "href": "https://www.baidu.com/",
+        "cardInfo": {
+          "width": 450,
+          "height": 96,
+          "displayType": "card"
+        }
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          "link"
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "."
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "标题二·列表"
+      ]
+    ]
+  ],
+  [
+    "p",
+    {
+      "list": {
+        "listId": "a",
+        "isOrdered": true,
+        "isTaskList": false,
+        "isChecked": false,
+        "level": 0
+      }
+    },
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "有序列表"
+      ]
+    ]
+  ],
+  [
+    "p",
+    {
+      "list": {
+        "listId": "a",
+        "isOrdered": true,
+        "isTaskList": false,
+        "isChecked": false,
+        "level": 1
+      }
+    },
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "有序，子列表"
+      ]
+    ]
+  ],
+  [
+    "p",
+    {
+      "list": {
+        "listId": "b",
+        "isOrdered": false,
+        "isTaskList": false,
+        "isChecked": false,
+        "level": 0
+      }
+    },
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "unOrder 列表"
+      ]
+    ]
+  ],
+  [
+    "p",
+    {
+      "list": {
+        "listId": "b",
+        "isOrdered": false,
+        "isTaskList": false,
+        "isChecked": false,
+        "level": 1
+      }
+    },
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "unOrder，子列表"
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "默认正文"
+      ]
+    ]
+  ],
+  [
+    "p",
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "正文内容，1234567890，abcdefghijklmn，emoji：👩‍👩‍👧‍👦 👩‍🦱 🙂 😿 🇯🇵 🇰🇷 🇩🇪 🇨🇳 🇺🇸 🇫🇷 🇪🇸 🇮🇹 🇷🇺 🇬🇧 🇨🇦 👦🏿"
+      ]
+    ]
+  ],
+  [
+    "p",
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "this is "
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf",
+          "inlineCode": true
+        },
+        "inlineCode"
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "."
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "正文 with mark"
+      ]
+    ]
+  ],
+  [
+    "p",
+    {
+      "spacing": {
+        "after": 30
+      }
+    },
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf",
+          "color": "green",
+          "sz": 14,
+          "szUnit": "pt",
+          "bold": true
+        },
+        "正文内容，1234567890，abcdefghijklmn，emoji：👩‍👩‍👧‍👦 👩‍🦱 🙂 😿 🇯🇵 🇰🇷 🇩🇪 🇨🇳 🇺🇸 🇫🇷 🇪🇸 🇮🇹 🇷🇺 🇬🇧 🇨🇦 👦🏿"
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {
+      "spacing": {
+        "before": 14.666666666666668,
+        "after": 14.666666666666668,
+        "line": 0.8529411764705882
+      }
+    },
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "bold": true,
+          "sz": 16,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        "表情"
+      ]
+    ]
+  ],
+  [
+    "p",
+    {},
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "All stickers: "
+      ]
+    ]
+  ],
+  [
+    "p",
+    {},
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 1",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 2",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 3",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 3",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 5",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 6",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 7",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "进度: 未开始",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "进度: 20%",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "进度: 40%",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "进度: 50%",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "进度: 70%",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "进度: 90%",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "进度: 已完成",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "微笑",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "憨笑",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "大笑",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "加油",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "赞",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "OK",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "抱拳",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "捂脸哭",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "笑哭",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "流泪",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "疑问",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "傻笑",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "流鼻血",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "狗子",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "文档",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "本子",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "折线图",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "柱状图",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "钉子",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "铅笔",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "钢笔",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "公文包",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "火箭",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "火",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "奖牌",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "灵感",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "笔记本",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "旗子",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ]
+  ],
+  [
+    "p",
+    {},
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ]
+  ],
+  [
+    "p",
+    {},
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "11pt: "
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 1",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 12,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 12,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 2",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 12,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 12,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 3",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 12,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 12,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 4",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 12,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 12,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 5",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 12,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 12,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 6",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 12,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 12,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 7",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 12,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 1",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "highlight": "#92D04F",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "highlight": "#92D04F",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 2",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "highlight": "#92D04F",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "highlight": "#92D04F",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 3",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "highlight": "#92D04F",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "highlight": "#92D04F",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 4",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "highlight": "#92D04F",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "highlight": "#92D04F",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 5",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "highlight": "#92D04F",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "highlight": "#92D04F",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 6",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "highlight": "#92D04F",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "highlight": "#92D04F",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 7",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "highlight": "#92D04F",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "highlight": "#92D04F",
+          "data-type": "leaf"
+        },
+        "文字"
+      ]
+    ]
+  ],
+  [
+    "p",
+    {},
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 16,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        "16pt: "
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 1",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 16,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 16,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 2",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 16,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 16,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 3",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 16,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 16,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 4",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 16,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 16,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 5",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 16,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 16,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 6",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 16,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 16,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 7",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 16,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 1",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 16,
+            "szUnit": "pt",
+            "highlight": "#04B0F1",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 16,
+          "szUnit": "pt",
+          "highlight": "#04B0F1",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 2",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 16,
+            "szUnit": "pt",
+            "highlight": "#04B0F1",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 16,
+          "szUnit": "pt",
+          "highlight": "#04B0F1",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 3",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 16,
+            "szUnit": "pt",
+            "highlight": "#04B0F1",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 16,
+          "szUnit": "pt",
+          "highlight": "#04B0F1",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 4",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 16,
+            "szUnit": "pt",
+            "highlight": "#04B0F1",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 16,
+          "szUnit": "pt",
+          "highlight": "#04B0F1",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 5",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 16,
+            "szUnit": "pt",
+            "highlight": "#04B0F1",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 16,
+          "szUnit": "pt",
+          "highlight": "#04B0F1",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 6",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 16,
+            "szUnit": "pt",
+            "highlight": "#04B0F1",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 16,
+          "szUnit": "pt",
+          "highlight": "#04B0F1",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 7",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 16,
+            "szUnit": "pt",
+            "highlight": "#04B0F1",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 16,
+          "szUnit": "pt",
+          "highlight": "#04B0F1",
+          "data-type": "leaf"
+        },
+        "文字"
+      ]
+    ]
+  ],
+  [
+    "p",
+    {},
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 24,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        "24pt: "
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 1",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 24,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 24,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 2",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 24,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 24,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 3",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 24,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 24,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 4",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 24,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 24,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 5",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 24,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 24,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 6",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 24,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 24,
+          "szUnit": "pt",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 7",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 24,
+            "szUnit": "pt",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 1",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 24,
+            "szUnit": "pt",
+            "highlight": "#FCC102",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 24,
+          "szUnit": "pt",
+          "highlight": "#FCC102",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 2",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 24,
+            "szUnit": "pt",
+            "highlight": "#FCC102",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 24,
+          "szUnit": "pt",
+          "highlight": "#FCC102",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 3",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 24,
+            "szUnit": "pt",
+            "highlight": "#FCC102",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 24,
+          "szUnit": "pt",
+          "highlight": "#FCC102",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 4",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 24,
+            "szUnit": "pt",
+            "highlight": "#FCC102",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 24,
+          "szUnit": "pt",
+          "highlight": "#FCC102",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 5",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 24,
+            "szUnit": "pt",
+            "highlight": "#FCC102",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 24,
+          "szUnit": "pt",
+          "highlight": "#FCC102",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 6",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 24,
+            "szUnit": "pt",
+            "highlight": "#FCC102",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 24,
+          "szUnit": "pt",
+          "highlight": "#FCC102",
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ],
+    [
+      "span",
+      {
+        "code": "优先级: 7",
+        "data-type": "emoji"
+      },
+      [
+        "span",
+        {
+          "data-type": "text"
+        },
+        [
+          "span",
+          {
+            "sz": 24,
+            "szUnit": "pt",
+            "highlight": "#FCC102",
+            "data-type": "leaf"
+          },
+          ""
+        ]
+      ]
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "sz": 24,
+          "szUnit": "pt",
+          "highlight": "#FCC102",
+          "data-type": "leaf"
+        },
+        "文字"
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "分割线"
+      ]
+    ]
+  ],
+  [
+    "hr",
+    {
+      "type": "dashed",
+      "sz": 2,
+      "color": "red",
+      "width": "100%"
+    },
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "无法解析内容"
+      ]
+    ]
+  ],
+  [
+    "p",
+    [
+      "iph",
+      {
+        "name": "公式",
+        "data": "string"
+      }
+    ]
+  ],
+  [
+    "ph",
+    {
+      "name": "脑图",
+      "data": "string"
+    }
+  ],
+  [
+    "h2",
+    {},
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "附件"
+      ]
+    ]
+  ],
+  [
+    "embed",
+    {
+      "src": "",
+      "name": "超长文件名超长文件名超长文件名超长文件名超长文件名超长文件名超长文件名超长文件名超长文件名超长文件名.webm",
+      "type": "video",
+      "mimeType": "",
+      "size": 333333,
+      "viewType": "preview",
+      "errorType": "oversize_error",
+      "previewSize": {
+        "height": 300
+      }
+    }
+  ],
+  [
+    "hr",
+    {
+      "type": "dashed",
+      "sz": 1,
+      "width": "100%"
+    },
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ]
+  ],
+  [
+    "p",
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "行内小图片"
+      ]
+    ],
+    [
+      "img",
+      {
+        "src": "https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/a/20463201318/559165588/b1c0cbec-157f-4366-8c1c-171f8c8c998c.png",
+        "width": 100,
+        "height": 128,
+        "rotation": 0
+      }
+    ],
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "行内小图片行内小图片行内小图片行内小图片。"
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "代码块"
+      ]
+    ]
+  ],
+  [
+    "code",
+    {
+      "syntax": "javascript",
+      "theme": "default",
+      "spacing": {
+        "before": 30,
+        "after": 15
+      },
+      "height": 50
+    },
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "// 这是代码块\nconst a = 1;\nconst b = 1;\nconst c = 1; const d = 1; const e = 1; console.log('Hello');\nconst f = 1;\nconst g = 1;\nconst h = 1;\nconst i = 1;"
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "表格"
+      ]
+    ]
+  ],
+  [
+    "table",
+    {
+      "colsWidth": [
+        233,
+        233,
+        533
+      ]
+    },
+    [
+      "tr",
+      {},
+      [
+        "tc",
+        {
+          "colSpan": 1,
+          "rowSpan": 1
+        },
+        [
+          "p",
+          {},
+          [
+            "span",
+            {
+              "data-type": "text"
+            },
+            [
+              "span",
+              {
+                "data-type": "leaf"
+              },
+              "A"
+            ]
+          ]
+        ]
+      ],
+      [
+        "tc",
+        {
+          "colSpan": 1,
+          "rowSpan": 1
+        },
+        [
+          "p",
+          {},
+          [
+            "span",
+            {
+              "data-type": "text"
+            },
+            [
+              "span",
+              {
+                "data-type": "leaf"
+              },
+              "B"
+            ]
+          ]
+        ]
+      ],
+      [
+        "tc",
+        {
+          "colSpan": 1,
+          "rowSpan": 1
+        },
+        [
+          "p",
+          {},
+          [
+            "span",
+            {
+              "data-type": "text"
+            },
+            [
+              "span",
+              {
+                "data-type": "leaf"
+              },
+              "C"
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "tr",
+      {},
+      [
+        "tc",
+        {
+          "colSpan": 1,
+          "rowSpan": 1
+        },
+        [
+          "p",
+          {},
+          [
+            "span",
+            {
+              "data-type": "text"
+            },
+            [
+              "span",
+              {
+                "data-type": "leaf"
+              },
+              "D"
+            ]
+          ]
+        ]
+      ],
+      [
+        "tc",
+        {
+          "colSpan": 1,
+          "rowSpan": 1
+        },
+        [
+          "p",
+          {},
+          [
+            "span",
+            {
+              "data-type": "text"
+            },
+            [
+              "span",
+              {
+                "data-type": "leaf"
+              },
+              "E"
+            ]
+          ]
+        ]
+      ],
+      [
+        "tc",
+        {
+          "colSpan": 1,
+          "rowSpan": 1
+        },
+        [
+          "p",
+          {},
+          [
+            "span",
+            {
+              "data-type": "text"
+            },
+            [
+              "span",
+              {
+                "data-type": "leaf"
+              },
+              "F"
+            ]
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "card",
+    {
+      "cardType": "unknown",
+      "height": 102,
+      "spacing": {
+        "before": 10,
+        "after": 10
+      },
+      "metadata": {}
+    },
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ]
+  ],
+  [
+    "card",
+    {
+      "cardType": "calendar",
+      "height": 129,
+      "spacing": {
+        "before": 10,
+        "after": 10
+      },
+      "metadata": {
+        "calendarId": 18700362
+      }
+    },
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ]
+  ],
+  [
+    "p",
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        "demoCard"
+      ]
+    ]
+  ],
+  [
+    "card",
+    {
+      "cardType": "demo",
+      "height": 102,
+      "spacing": {
+        "before": 10,
+        "after": 10
+      },
+      "metadata": {}
+    },
+    [
+      "span",
+      {
+        "data-type": "text"
+      },
+      [
+        "span",
+        {
+          "data-type": "leaf"
+        },
+        ""
+      ]
+    ]
+  ]
+]

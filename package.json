@@ -1,0 +1,29 @@
+{
+  "description": "undefined",
+  "main": "index.tsx",
+  "dependencies": {
+    "react": "^16.8.4",
+    "lodash": "4.17.21",
+    "styled-components": "^5.1.0",
+    "@ali/4ever-cangjie": "1.20.0",
+    "@ali/we-design": "0.3.55",
+    "@ali/4ever-mo": "1.20.0",
+    "@ali/4ever-bi": "1.20.0",
+    "@ali/4ever-bamboo": "1.20.0",
+    "@ali/we-icon": "*",
+    "react-dom": "^16.8.4",
+    "react-is": ">= 16.8.0",
+    "@ali/we-util": "*",
+    "debug": "^4.1.1",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "devDependencies": {
+    "typescript": "^3"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
